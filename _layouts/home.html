@@ -5,8 +5,29 @@ title: Home
 
 I am a resaercher in radio astronomy at the University of Oxford where I study astrophysical sources of transient and variable emission.
 
-<img src="/assets/img/me.jpeg" alt="Description" class="right-img">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Right Aligned Image with Text Wrapping</title>
+  <style>
+    .right-img {
+      float: right;
+      margin: 10px;
+      max-width: 300px;
+    }
+  </style>
+</head>
+<body>
 
+  <img src="/assets/img/me.jpeg" alt="Description" class="right-img">
+
+  <p>
+    This is some sample text that wraps nicely around the image. The image is floated to the right using CSS, so all the text flows around it like you'd expect in a normal article layout. You can add more text here and the wrapping will continue as long as the image is visible. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus finibus, magna in luctus euismod, tortor erat cursus sapien, a pretium tellus neque at elit.
+  </p>
+
+</body>
+</html>
 <!--{% for post in paginator.posts %}
    {% include featured-post.html %}
  {% endfor %}-->
