@@ -2,8 +2,8 @@
 layout: post
 title: "Black Hole X-ray Binary Radio -- X-ray -- Optical Correlation"
 author: "Candidate 1053572"
-categories: highlights
-tags: [highlights]
+categories: research
+tags: [research]
 ---
 
 
