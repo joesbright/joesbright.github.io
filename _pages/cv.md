@@ -6,6 +6,4 @@ categories: cv
 tags: [cv]
 ---
 
-This is a test.
-
-<a href="/assets/docs/cv.pdf" target="_blank" rel="noopener noreferrer">📄 View or Download My CV</a>
+[📄 View or Download My CV](https://joesbright.github.io/assets/docs/cv.pdf)
