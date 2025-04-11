@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Research Highlights',  url: 'highlights'}
-- {name: 'Observing Experience', url: 'observing'}
-- {name: 'Professional Development',       url: 'profdev'}
+- {name: 'Research Repository',  url: 'research'}
+# - {name: 'Observing Experience', url: 'observing'}
+# - {name: 'Professional Development',       url: 'profdev'}
 - {name: 'Curriculum Vitae',      url: 'cv'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
