@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Research Highlights
-category: highlights
-permalink: /highlights
+title: Research Respository
+category: research
+permalink: /research
 ---

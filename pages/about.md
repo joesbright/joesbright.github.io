@@ -5,4 +5,3 @@ category: about
 permalink: /about
 ---
 
-This is my about me page.
