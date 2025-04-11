@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "MAXI J1820+070 Radio -- X-ray -- Optical Correlation"
 author: "Joe S. Bright"
 categories: cv
