@@ -7,4 +7,4 @@ tags: [cv]
 permalink: /cv/
 ---
 
-<a href="/assets/docs/cv.pdf" target="_blank" rel="noopener noreferrer">📄 View or Download My CV</a>
+<a href="assets/docs/cv.pdf" target="_blank" rel="noopener noreferrer">📄 View or Download My CV</a>
